@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Student Artificial Intelligence and machine learning
+role: Student- Artificial Intelligence and machine learning
 
 # Organizations/Affiliations to show in About widget
 organizations:
